@@ -3,10 +3,18 @@
 Generative AI models like LLMs can be massive and hard to run on regular devices, but we took it up a notch and built our own per-channel quantizer to make them more efficient!
 
 Here’s what we did:
+
 ✅ Developed a custom per-channel quantization tool
+
 ✅ Tested it on dummy models to refine the technique
+
+
 ✅ Applied it to open-source models to see real-world results
 
-With per-channel quantization, we’re able to compress models even more effectively without losing accuracy. This means AI models can now run on smartphones, PCs, and edge devices with greater efficiency. Check out my code below—this is the real deal, and it goes beyond the basics!
+
+
+With per-channel quantization, we’re able to compress models even more effectively without losing accuracy.
+This means AI models can now run on smartphones, PCs, and edge devices with greater efficiency. 
+Check out my code below—this is the real deal, and it goes beyond the basics!
 
 
